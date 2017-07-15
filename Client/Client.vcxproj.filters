@@ -23,5 +23,11 @@
     <ClCompile Include="tcp_sync_echo_client.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="udp_sync_echo_client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tcp_async_echo_client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
